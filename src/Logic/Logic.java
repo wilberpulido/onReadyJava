@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Logic  {
-    
 
     public Vehiculo vehiculoMasCaro(List<Vehiculo> listaVehiculos) {
         
